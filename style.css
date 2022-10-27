@@ -14,7 +14,7 @@ body {
   }
  hr{
     width: 50%;
-    border: 1px solid #EEB1BF;
+    border: 0px dashed #EEB1BF;
  }
   .base1{
     color: #EEB1BF;
